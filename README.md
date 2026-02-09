@@ -1,5 +1,8 @@
 # SmartCare AI – Diabetes Risk Prediction & Preventive Analytics Platform
 
+[Jira Board Link](https://myscc-team-nxad72b0.atlassian.net/jira/software/projects/KAN/list/?jql=project%20%3D%20%22KAN%22%20AND%20updatedDate%20%3E%3D%20-1w)
+
+
 ## 📌 Project Overview
 SmartCare AI is an end-to-end machine learning project designed to predict diabetes risk using healthcare, lifestyle, and demographic data.  
 The system analyzes patient health indicators such as BMI, glucose, blood pressure, insulin levels, cholesterol, sleep patterns, physical activity, diet type, stress level, and other behavioral factors to provide early detection and prevention insights.
