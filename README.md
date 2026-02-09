@@ -1,5 +1,4 @@
-# SmartCare-AI-Diabetes-Prediction
-AI model to predict diabetes risk using healthcare dataset
+
 # SmartCare AI – Diabetes Risk Prediction
 
 ## Project Overview
